@@ -1,0 +1,15 @@
+  
+<html>
+<head>
+<title>labsheet2</title>
+</head>
+<body bgcolor=90ee90>
+	<h1 align="center">Submisssion Status</h1>
+	<p><i>Assignment submission successful!</i><br/>
+<p>This is our 2<sup>nd</sup>lab session</p>
+	<p><big>H<sub>2</sub>O</big> is water</p>
+<p>The grade will be updated soon</p>
+	<hr / color="black">
+	<p dir="rtl">Thank You</p>
+</body>
+</html>
