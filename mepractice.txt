@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>Div Tag Example</title>
+</head>
+<body>
+	<div id="menu"align="middle">
+         <a href="/index.htm">HOME</a>|
+         <a href="/about/contact_us.htm">CONTACT</a>|
+         <a href="/about/index.htm">ABOUT</a>
+        </div>
+<div id="content"align="left"bgcolor="white">
+<h5>Content Articles</h5>
+<p>Actual Content goes here....<br></br>
+This is the example of<span style="color:green">span tag</span>
+<em>ABCDEF</em>
+<mark>SDFG</mark><br></br>
+<strong>ASDF</strong>
+<bdo>WERT</bdo>
+<q>QWERTY</q>
+<address>AFTYDGFRIEJIOAJO</address>
+<bdo dir="rtl">SUNIL</bdo><br></br>
+<ul type="square">
+<li>fruits</li>
+<li>veg</li>
+<li>non-veg</li>
+</ul>
+<ol type="1">
+<li><strong>fruits</strong></li>
+<li>veg</li>
+<li>non-veg</li>
+<ol>
+</p>
+<p>
+<ul>
+<li>PRESIDENCY_ENG
+<ol type="1">
+<li>CSE</li>
+<ul type="square">
+<li>IST</li>
+<li>COM</li>
+</ul></li>
+<ol type="1">
+<li>ECE</li></li>
+<ul type="square">
+<li>Btech_ECE</li>
+<ul type="disc">
+<li>PRESIDENCY_LAW</li>
+</ul>
+</p><br></br>
+<caption>STUDENT DATA</caption>
+<table border="1">
+<th>STUDENT NAME</th>
+<th>STUDENT CGPA</th>
+<tr>
+<td>abc</td>
+<td>6.5</td>
+</tr>
+<tr>
+<td>xyz</td>
+<td>7.5</td>
+</tr>
+</table>
+</div>
+</body>
+</html>
