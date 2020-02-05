@@ -3,7 +3,7 @@
 	<title>labsheet4</title>
 	</head>
 	<body>
-		<h1 ALIGN="CENTER" ><b>L<tt>INDA</tt> D<tt>IAZ</tt></b></h1>
+		<h1 ALIGN="CENTER" ><b>S<tt>AI</tt> G<tt>IRISH</tt></b></h1>
 		<hr color="black"/> <hr  color="black" size="8px" />
 		<p align="center">Anchorage, AK • (555) 555-555 • example@example.com</p>
 		<h3>Professional Summary</h3>
