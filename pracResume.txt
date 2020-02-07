@@ -5,48 +5,26 @@
 	<body>
 		<h1 ALIGN="CENTER" ><b>S<tt>AI</tt> G<tt>IRISH</tt></b></h1>
 		<hr color="black"/> <hr  color="black" size="8px" />
-		<p align="center">Anchorage, AK • (555) 555-555 • example@example.com</p>
+		<p align="center">Anantapur, AP• 9331746291 • saigirish0017@gmail.com</p>
 		<h3>Professional Summary</h3>
-		<p>Skillfull Senior Merchandiser accomplished in product assembly, material handling and display design. Works well independent
-		   and as part of dynamic teams. Skilled at collabarating with designers of collectibles and memorabilia on product placement, 
-		   store displays and marketing material for new clothing launches and promotions.</p>
+		<p>Have been a part of the university project named "Predicting Energy Performance in Residential Buildings"</p>
 		<h3>Work History</h3>
-		<p><b>Senior Merchandiser</b>, 10/2016 to current<br />
-		   <b>Hallmark </b>-Anchorage, AK</p>
-		<ul>
-			<li>Monitored and analyzed sales records and consumer purchasing trends.</li>
-			<li>Coordinated communication with merchandise operations and vendors for PO creation and maintenance.</li>
-			<li>Ran markdown reports, managed store replenishment and analysed buying reports.</li>
-			<li>Set and recommended mark-up rates, mark-down and selling prices for merchandise.</li>
-		</ul>
-		<p><b>Merchandiser</b>, 03/2013 to 10/2016<br />
-		   <b>Hallmark</b> -Anchorage, AK</p>
-		<ul>
-			<li>Completed stock orders and managed inventory levels.</li>
-			<li>Answered customer questions regarding store merchandise, department information and pricing.</li>
-			<li>Organized on-site trainings to educate management and sales staff on benifits and care of product lines.</li>
-			<li>Conferred with store managers to obtain information about customer needs and preferences.</li>
-		</ul>
-		<p><b>Customer Service Representative</b>, 07/2011 to 03/2013<br />
-		   <b>Hallmark-Anchorage</b>, AK</p>
-		<ul>
-		<li>Provided elevated customer exxperience to generate loyal clientele</li>
-		<li>Recommended, selected and helped locate and obtain out-of-stock product based on customer requests.</li>
-		<li>Described collectibles and memorabilia to customers, thoroughly explaining details and care of merchandise.</li>
-		<li>Delivered exceptional customer service to every customer by leveraging exclusive knowledge of products and services and creating 
-		    welcoming, positive experiences.</li>
-		</ul>
+		 <p style="margin-bottom: 5px;"><strong>Marketting,</strong> 05,2019 to 07,2019 </p>
+            <ul style="margin: 0px;">
+                <li>Presentations on the product to the targetted clients.</li>
+                
+                <li>Digital marketting.</li>
+            </ul>
 		<p><b>Skills</b></p>
 		<ul style="column-count:2">
-			<li>Exellent communication skills</li>			
-			<li>Customer service</li>
-			<li>Markdown procedures</li>
-			<li >Inventory control</li>
-			<li>Vendor relations</li>
-			<li>Upselling techniques</li>
+			<li>Time Management</li>			
+			<li>Patience</li>
+			<li>Stress management</li>
+			<li>Communication</li>
+			
 		</ul>
 		<p><b>Education</b></p>
-		<p><b>High School Diploma:</b> 2011 <br />		
-		   <b>West Anchorage High School </b>-Anchorage, AK</p>
+		<p><b>Sri Vidya Collage:</b> 2015 <br />		
+		   <b>Gayatri School </b>-Anantapur, AP</p>
 	</body>
 </html>
