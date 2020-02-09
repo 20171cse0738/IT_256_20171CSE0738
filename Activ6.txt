@@ -1,0 +1,13 @@
+<html>
+  <head>
+ <title>Activity6</title>
+ </head>
+ <frameset rows="30%,40%,30%" cols="50%,50%">
+ <frame src="index.jpeg"/>
+<frame  src="/home/Sem6B11/Desktop/index2.jpeg"/>
+<frame  src="labactivity.html"/>
+<frame  src="LABPRAC2.html"/>
+<frame  src="LABPRAC1.html"/>
+<frame  src="pracsa.html"/>
+</frameset>
+</html>
