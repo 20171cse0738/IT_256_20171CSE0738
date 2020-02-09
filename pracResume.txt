@@ -26,5 +26,6 @@
 		<p><b>Education</b></p>
 		<p><b>Sri Vidya Collage:</b> 2015 <br />		
 		   <b>Gayatri School </b>-Anantapur, AP</p>
+		   click<a href="tmtb.html">here</a>
 	</body>
 </html>
